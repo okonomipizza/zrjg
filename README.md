@@ -1,10 +1,13 @@
 zrjg
 ===
-
 Random JSON Generator implemented in Zig.
 This project is inspired by the Rust-based [rjg](https://github.com/sile/rjg) and provides similar functionality in a Zig implementation.
 
 ```console
+// Install
+$ git clone https://github.com/okonomipizza/zrjg
+$ cd zrjg
+$ zig build
 
 // Generate integer arrays.
 $ rjg --count 3 '[0, {"$int": {"min": 1, "max": 8}}, 9]'
