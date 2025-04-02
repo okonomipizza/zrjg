@@ -1,10 +1,6 @@
 zrjg
 ===
 
-[![rjg](https://img.shields.io/crates/v/rjg.svg)](https://crates.io/crates/rjg)
-[![Actions Status](https://github.com/sile/rjg/workflows/CI/badge.svg)](https://github.com/sile/rjg/actions)
-![License](https://img.shields.io/crates/l/rjg)
-
 Random JSON Generator implemented in Zig.
 This project is inspired by the Rust-based [rjg](https://github.com/sile/rjg) and provides similar functionality in a Zig implementation.
 
